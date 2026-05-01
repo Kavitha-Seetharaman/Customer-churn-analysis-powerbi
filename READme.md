@@ -38,10 +38,10 @@ Telecom churn dataset from Kaggle.
 ## Screenshots
 
 ### Overview Page
-![Overview Dashboard](overview.png)
+![Overview](Overview.png)
 
 ### Deep Dive Page
-!(detailed-analysis.png)
+![Detailed Analysis](Detailed_Analysis.png)
 
 ## Business Recommendation
 Focus retention efforts on customers with repeated service interactions and complaint-heavy behavior. Improving first-contact resolution and customer support quality may help reduce churn.
