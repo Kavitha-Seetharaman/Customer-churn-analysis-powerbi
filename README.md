@@ -1,4 +1,11 @@
 # Customer Churn Analysis Dashboard
+# Workflow
+**Python (EDA) → Power BI (Dashboard)**
+This project follows a two-stage analytical workflow:
+1. **Python (Pandas, NumPy)** — Initial exploratory data analysis (EDA): data cleaning, null handling, distribution checks, and correlation analysis on raw telecom data
+2. **Power BI** — Interactive dashboard built on the cleaned dataset; DAX measures for churn rate, risk segmentation, and trend analysis
+
+The Jupyter notebook (`Telecom_Analysis.ipynb`) contains the full Python EDA. The `.pbix` file contains the Power BI dashboard.
 
 ## Overview
 This project analyzes telecom customer churn using Power BI. The dashboard identifies key churn drivers such as customer service calls, complaints, international plan usage, and state-level churn patterns.
